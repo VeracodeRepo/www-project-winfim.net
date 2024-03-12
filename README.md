@@ -1,4 +1,4 @@
-# WinFIM.NET
+# WinFIM.NET11
 WinFIM.NET - File Integrity Monitoring For Windows
 
 For a detailed introduction, please visit the [Cyber Security Corner](https://redblueteam.wordpress.com/2020/03/11/winfim-net-windows-file-integrity-monitoring/) technical blog.
